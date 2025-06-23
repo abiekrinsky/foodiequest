@@ -1,0 +1,10 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:A1E4844A-6ADB-41A6-8861-34D45FB05ADE, OS:18.3.1, name:iPhone 16 Pro }
+{ platform:iOS Simulator, id:A1E4844A-6ADB-41A6-8861-34D45FB05ADE, OS:18.3.1, name:iPhone 16 Pro }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	PhaseScriptExecution [CP]\ Embed\ Pods\ Frameworks /Users/abiekrinsky/Library/Developer/Xcode/DerivedData/foodiequest-arpmtqlowbqxcycjqvevpcjvphqt/Build/Intermediates.noindex/foodiequest.build/Debug-iphonesimulator/foodiequest.build/Script-685FEF48CB8B261D14866FD5.sh (in target 'foodiequest' from project 'foodiequest')
+	Building workspace foodiequest with scheme foodiequest and configuration Debug
+(2 failures)
